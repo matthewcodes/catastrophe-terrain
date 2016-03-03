@@ -1,0 +1,22 @@
+{
+  "name": "catastrophe-terrain",
+  "version": "1.0.0",
+  "description": "My attempt at terrain generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewcodes/catastrophe-terrain.git"
+  },
+  "author": "Matthew Wilson <mwilson@mwil.so> (http://www.mwil.so)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewcodes/catastrophe-terrain/issues"
+  },
+  "homepage": "https://github.com/matthewcodes/catastrophe-terrain#readme",
+  "dependencies": {
+    "jimp": "^0.2.21"
+  }
+}
